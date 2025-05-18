@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.so
 .Python
+env/
 build/
 develop-eggs/
 dist/
@@ -20,8 +21,41 @@ wheels/
 .installed.cfg
 *.egg
 
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+*.h5
+test_image.jpg
+Data/
+Animal Model/
+Sub model/
+
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Model checkpoints and logs
+*.pth
+*.pt
+*.ckpt
+logs/
+runs/
+
+# Dataset files (add if you don't want to track large datasets)
+Data/
 
 # Environment
 .env
@@ -36,9 +70,13281 @@ ENV/
 *.swp
 *.swo
 
-# Dataset files (add if you don't want to track large datasets)
-Data/
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
 
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
 # Model checkpoints and logs
 *.pth
 *.pt

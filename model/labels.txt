@@ -1,0 +1,5 @@
+0 Amphibian
+1 Birds
+2 Mammals
+3 Insect
+4 Reptiles

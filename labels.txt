@@ -1,0 +1,4 @@
+0 Animal
+1 Fire
+2 Trash
+3 Plants
